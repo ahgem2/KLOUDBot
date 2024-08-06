@@ -1,0 +1,23 @@
+{
+  "name": "kloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node javascript.js",
+    "dev": "nodemon javascript.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.2",
+    "parse-ms-2": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.1.1"
+  }
+}
